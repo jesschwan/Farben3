@@ -1,13 +1,13 @@
 ﻿Name,RGB,Hex,HSL
-dodgerblue,rgb(30, 144, 255),#1e90ff,hsl(210, 100%, 56%)
-blue,rgb(0, 0, 255),#0000ff,hsl(240, 100%, 50%)
-steelblue,rgb(70, 130, 180),#4682b4,hsl(207, 44%, 49%)
-deepskyblue,rgb(0, 191, 255),#00bfff,hsl(195, 100%, 50%)
-lightsteelblue,rgb(176, 196, 222),#b0c4de,hsl(214, 41%, 78%)
-royalblue,rgb(65, 105, 225),#4169e1,hsl(225, 73%, 57%)
-midnightblue,rgb(25, 25, 112),#191970,hsl(240, 64%, 27%)
-cadetblue,rgb(95, 158, 160),#5f9ea0,hsl(182, 25%, 50%)
-skyblue,rgb(135, 206, 235),#87ceeb,hsl(197, 71%, 73%)
-mediumblue,rgb(0, 0, 205),#0000cd,hsl(240, 100%, 40%)
-cornflowerblue,rgb(100, 149, 237),#6495ed,hsl(219, 79%, 66%)
-steelteal,rgb(70, 130, 140),#46828c,hsl(190, 29%, 41%)
+dodgerblue,"rgb(30, 144, 255)","#1e90ff","hsl(210, 100%, 56%)"
+blue,"rgb(0, 0, 255)","#0000ff","hsl(240, 100%, 50%)"
+steelblue,"rgb(70, 130, 180)","#4682b4","hsl(207, 44%, 49%)"
+deepskyblue,"rgb(0, 191, 255)","#00bfff","hsl(195, 100%, 50%)"
+lightsteelblue,"rgb(176, 196, 222)","#b0c4de","hsl(214, 41%, 78%)"
+royalblue,"rgb(65, 105, 225)","#4169e1","hsl(225, 73%, 57%)"
+midnightblue,"rgb(25, 25, 112)","#191970","hsl(240, 64%, 27%)"
+cadetblue,"rgb(95, 158, 160)","#5f9ea0","hsl(182, 25%, 50%)"
+skyblue,"rgb(135, 206, 235)","#87ceeb","hsl(197, 71%, 73%)"
+mediumblue,"rgb(0, 0, 205)","#0000cd","hsl(240, 100%, 40%)"
+cornflowerblue,"rgb(100, 149, 237)","#6495ed","hsl(219, 79%, 66%)"
+steelteal,"rgb(70, 130, 140)","#46828c","hsl(190, 29%, 41%)"

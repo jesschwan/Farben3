@@ -1,14 +1,14 @@
 ﻿Name,RGB,Hex,HSL
-purple,rgb(128, 0, 128),#800080,hsl(300, 100%, 25%)
-indigo,rgb(75, 0, 130),#4b0082,hsl(275, 100%, 25%)
-darkmagenta,rgb(139, 0, 139),#8b008b,hsl(300, 100%, 27%)
-darkviolet,rgb(148, 0, 211),#9400d3,hsl(282, 100%, 41%)
-mediumpurple,rgb(147, 112, 219),#9370db,hsl(259, 60%, 65%)
-rebeccapurple,rgb(102, 51, 153),#663399,hsl(270, 50%, 40%)
-blueviolet,rgb(138, 43, 226),#8a2be2,hsl(271, 76%, 53%)
-mediumorchid,rgb(186, 85, 211),#ba55d3,hsl(288, 59%, 58%)
-darkorchid,rgb(153, 50, 204),#9932cc,hsl(280, 60%, 50%)
-orchid,rgb(218, 112, 214),#da70d6,hsl(302, 59%, 65%)
-amethyst,rgb(153, 102, 204),#9966cc,hsl(270, 50%, 60%)
-heliotrope,rgb(223, 115, 255),#df73ff,hsl(282, 100%, 73%)
-mauve,rgb(224, 176, 255),#e0b0ff,hsl(276, 100%, 84%)
+purple,"rgb(128, 0, 128)","#800080","hsl(300, 100%, 25%)"
+indigo,"rgb(75, 0, 130)","#4b0082","hsl(275, 100%, 25%)"
+darkmagenta,"rgb(139, 0, 139)","#8b008b","hsl(300, 100%, 27%)"
+darkviolet,"rgb(148, 0, 211)","#9400d3","hsl(282, 100%, 41%)"
+mediumpurple,"rgb(147, 112, 219)","#9370db","hsl(259, 60%, 65%)"
+rebeccapurple,"rgb(102, 51, 153)","#663399","hsl(270, 50%, 40%)"
+blueviolet,"rgb(138, 43, 226)","#8a2be2","hsl(271, 76%, 53%)"
+mediumorchid,"rgb(186, 85, 211)","#ba55d3","hsl(288, 59%, 58%)"
+darkorchid,"rgb(153, 50, 204)","#9932cc","hsl(280, 60%, 50%)"
+orchid,"rgb(218, 112, 214)","#da70d6","hsl(302, 59%, 65%)"
+amethyst,"rgb(153, 102, 204)","#9966cc","hsl(270, 50%, 60%)"
+heliotrope,"rgb(223, 115, 255)","#df73ff","hsl(282, 100%, 73%)"
+mauve,"rgb(224, 176, 255)","#e0b0ff","hsl(276, 100%, 84%)"

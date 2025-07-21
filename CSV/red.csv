@@ -1,6 +1,6 @@
 ﻿Name,RGB,Hex,HSL
-crimson,rgb(220, 20, 60),#dc143c,hsl(348, 83%, 47%)
-firebrick,rgb(178, 34, 34),#b22222,hsl(0, 68%, 42%)
-indianred,rgb(205, 92, 92),#cd5c5c,hsl(0, 53%, 58%)
-darkred,rgb(139, 0, 0),#8b0000,hsl(0, 100%, 27%)
-red,rgb(255, 0, 0),#ff0000,hsl(0, 100%, 50%)
+crimson,"rgb(220, 20, 60)","#dc143c","hsl(348, 83%, 47%)"
+firebrick,"rgb(178, 34, 34)","#b22222","hsl(0, 68%, 42%)"
+indianred,"rgb(205, 92, 92)","#cd5c5c","hsl(0, 53%, 58%)"
+darkred,"rgb(139, 0, 0)","#8b0000","hsl(0, 100%, 27%)"
+red,"rgb(255, 0, 0)","#ff0000","hsl(0, 100%, 50%)"

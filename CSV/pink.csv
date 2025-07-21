@@ -1,6 +1,6 @@
 ﻿Name,RGB,Hex,HSL
-pink,rgb(255, 192, 203),#ffc0cb,hsl(350, 100%, 88%)
-lightpink,rgb(255, 182, 193),#ffb6c1,hsl(351, 100%, 86%)
-hotpink,rgb(255, 105, 180),#ff69b4,hsl(330, 100%, 71%)
-palevioletred,rgb(219, 112, 147),#db7093,hsl(340, 60%, 65%)
-deeppink,rgb(255, 20, 147),#ff1493,hsl(328, 100%, 54%)
+pink,"rgb(255, 192, 203)","#ffc0cb","hsl(350, 100%, 88%)"
+lightpink,"rgb(255, 182, 193)","#ffb6c1","hsl(351, 100%, 86%)"
+hotpink,"rgb(255, 105, 180)","#ff69b4","hsl(330, 100%, 71%)"
+palevioletred,"rgb(219, 112, 147)","#db7093","hsl(340, 60%, 65%)"
+deeppink,"rgb(255, 20, 147)","#ff1493","hsl(328, 100%, 54%)"

@@ -1,5 +1,5 @@
 ﻿Name,RGB,Hex,HSL
-limegreen,rgb(50, 205, 50),#32cd32,hsl(120, 61%, 50%)
-green,rgb(0, 128, 0),#008000,hsl(120, 100%, 25%)
-seagreen,rgb(46, 139, 87),#2e8b57,hsl(146, 50%, 36%)
-mediumseagreen,rgb(60, 179, 113),#3cb371,hsl(147, 50%, 47%)
+limegreen,"rgb(50, 205, 50)","#32cd32","hsl(120, 61%, 50%)"
+green,"rgb(0, 128, 0)","#008000","hsl(120, 100%, 25%)"
+seagreen,"rgb(46, 139, 87)","#2e8b57","hsl(146, 50%, 36%)"
+mediumseagreen,"rgb(60, 179, 113)","#3cb371","hsl(147, 50%, 47%)"
