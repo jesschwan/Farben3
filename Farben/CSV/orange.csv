@@ -1,0 +1,6 @@
+﻿Name,RGB,Hex,HSL
+orange,rgb(255, 165, 0),#ffa500,hsl(39, 100%, 50%)
+darkorange,rgb(255, 140, 0),#ff8c00,hsl(33, 100%, 50%)
+coral,rgb(255, 127, 80),#ff7f50,hsl(16, 100%, 66%)
+tomato,rgb(255, 99, 71),#ff6347,hsl(9, 100%, 64%)
+peru,rgb(205, 133, 63),#cd853f,hsl(30, 59%, 53%)
